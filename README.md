@@ -10,12 +10,12 @@
 
 ### Minttu
 
-Milloin teki | Mitä teki | Kauanko kesti
+| Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
 | 24.10.2017 | Git-sivusto | 0,5h |
 
 ### Joona
 
-| Mitä teki | Kauanko kesti
+| Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--||:--
 | joka päivä | tappoi natseja | 50h |
