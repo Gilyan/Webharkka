@@ -6,8 +6,16 @@
 |:--|:--|
 | Plört | Plört |
 
-## Ken on heistä kaikkein ahkerin koodaaja
+## Mitäs sitä on tullut tehtyä?
 
-| Kuka teki | Mitä teki | Kauanko kesti
-|:--|:--|:--|
-| Minttu | Git-sivusto | 0,5h |
+### Minttu
+
+| Mitä teki | Kauanko kesti
+|:--|:--|
+| Git-sivusto | 0,5h |
+
+### Joona
+
+| Mitä teki | Kauanko kesti
+|:--|:--|
+| tappoi natseja | 50h |
