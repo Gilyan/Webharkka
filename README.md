@@ -17,5 +17,5 @@
 ### Joona
 
 | Milloin teki | Mitä teki | Kauanko kesti |
-|:--|:--||:--
+|:--|:--|:--|
 | joka päivä | tappoi natseja | 50h |
