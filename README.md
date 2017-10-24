@@ -14,6 +14,10 @@ Mahdollisuus kirjautua palveluun
 
 Säätiedot
 
+Kommenttikenttä kullekin ravintolalle
+ - tähtiarviot (1-5 tähteä)
+ - vapaita kommentteja
+
 
 ## TODO
 
