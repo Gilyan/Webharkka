@@ -1,4 +1,19 @@
 # Web-ohjelmoinnin ja web-palvelinohjelmoinnin harjoitustyö
+## Mitäs me edes tehdään?
+Ruokalistoja
+ - Fiilu
+ - Bittipannu
+ - Kivääritehdas
+
+Hakee kartalla reitin haluttuun paikkaan
+ - karttapampuloista voi valita minne menee
+ - osoitekenttään voi kirjoitella missä on
+
+Mahdollisuus kirjautua palveluun
+ - suosikkiruoan tallennus ja korostaminen
+
+Säätiedot
+
 
 ## TODO
 
