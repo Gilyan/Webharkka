@@ -2,11 +2,9 @@
 
 ## TODO
 
-| Kissa | Väri |
+| Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Ares | Musta |
-| Hiro | Mustavalkea |
-| Luna | Kilpikonna |
+| Plört | Plört |
 
 ## Ken on heistä kaikkein ahkerin koodaaja
 
