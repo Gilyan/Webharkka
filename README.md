@@ -14,6 +14,7 @@ Hakee kartalla reitin haluttuun paikkaan
    * vihreä = ravintola on auki
    * punainen = ravintola on kiinni
  - osoitekenttään voi kirjoitella missä on
+ - automaattinen haku sijainnin mukaan, jos voi?
 
 Kirjautunut käyttäjä voi
  - valita oman nimimerkin, joka näkyy kun kirjoittaa kommentteja
