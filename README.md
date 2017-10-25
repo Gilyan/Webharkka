@@ -20,7 +20,8 @@ Kirjautunut käyttäjä voi
  - valita oman nimimerkin, joka näkyy kun kirjoittaa kommentteja
    * tarkistettava, ettei ole kellään muulla
  - omien tietojen muokkaus
- - suosikkiruoan tallennus ja korostaminen (onko liian vaikeasti toteutettavissa?)
+ - suosikkiruoan tallennus ja korostaminen 
+   * onko liian vaikeasti toteutettavissa?
  - voi valita etusivulle, mitä ravintoloita näytetään
  - voi kirjoittaa kommentteja ravintoloille
    * tähtiarviot (1-5 tähteä)
@@ -38,7 +39,7 @@ Säätiedot
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Plört | Plört |
+| Layout sivustolle | - |
 
 ## Mitäs sitä on tullut tehtyä?
 
@@ -46,10 +47,10 @@ Säätiedot
 
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
-| 24.10.2017 | Git-sivusto | 0,5h |
+| 24.10.2017 | Git-sivusto | 1 h |
 
 ### Joona
 
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
-| joka päivä | tappoi natseja | 50h |
+| Plört | Plört | Plört |
