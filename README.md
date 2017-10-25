@@ -10,6 +10,7 @@ Ruokalistoja
 
 Hakee kartalla reitin haluttuun paikkaan
  - karttapampuloista voi valita minne menee
+ - ja millä mennään, laskee ajan (kuten harkassa)
  - pampulaa klikattaessa näkee ruokalistan? vai pelkät osoitetiedot ja aukioloajan?
  - palluran värit
    * vihreä = ravintola on auki
