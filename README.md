@@ -50,9 +50,12 @@ Säätiedot
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
 | 24.10.2017 | Git-sivusto | 1 h |
+| 31.10.2017 | Sivustolle rakennetta | 2 h |
+|  | YHTEENSÄ | 3 h |
 
 ### Joona
 
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
 | Plört | Plört | Plört |
+|  | YHTEENSÄ | 0 h |
