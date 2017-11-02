@@ -57,5 +57,5 @@ Säätiedot
 
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
-| Plört | Plört | Plört |
-|  | YHTEENSÄ | 0 h |
+| 2.11.2017 | Layout ja rakenteen suunnittelua | 2h |
+|  | YHTEENSÄ | 2 h |
