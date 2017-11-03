@@ -41,7 +41,8 @@ Säätiedot
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Layout sivustolle | - |
+| Parempi layout sivustolle | Joona |
+| Suunnitella javascriptiä ja php sivustolle eli rakennetta lisää | Joona ja Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
