@@ -41,6 +41,8 @@ Säätiedot
 ![](https://github.com/Gilyan/Webharkka/blob/master/mockup1.PNG)
 
 
+ks : värit http://sahlinstudio.com/wp-content/uploads/2012/05/color-inspiration-float.jpg
+
 ## TODO
 
 | Mitä pitää tehdä | Kuka tekee |
