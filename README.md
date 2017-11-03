@@ -36,7 +36,7 @@ Ilman kirjautumista voi
  
 Säätiedot
 
-Mockup
+
 ![](https://github.com/Gilyan/Webharkka/blob/master/mockup1.PNG)
 
 
