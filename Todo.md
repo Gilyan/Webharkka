@@ -1,5 +1,4 @@
-
-## TODO
+# TODO
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
