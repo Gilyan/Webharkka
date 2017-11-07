@@ -13,6 +13,16 @@
 |:--|:--|:--|
 | 24.10.2017 | Git-sivusto | 1 h |
 | 31.10.2017 | Sivustolle rakennetta | 2 h |
+| 7.11.2017 | Sivuston ulkoasu tehty.
+Tietokanta käyttäjille ja kommenteille tehty. 
+Testikäyttäjiä ja -dataa luotu.
+- comment-core/CommentDb.php
+- comment-config.php.
+- add_message.php
+- get_all_users.php
+- get_messages.php
+- get_user.php
+--> modifioitu uudelle tietokannalle. | 3 h |
 |  | YHTEENSÄ | 3 h |
 
 ### Joona
