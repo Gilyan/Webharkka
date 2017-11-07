@@ -2,7 +2,7 @@
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Parempi layout sivustolle | Joona |
+| Ruokalistat, weahter appi ja autofill haku kaupungille | Joona |
 | Suunnitella javascriptiä ja php sivustolle eli rakennetta lisää | Joona ja Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
@@ -20,4 +20,5 @@
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
 | 2.11.2017 | Layout ja rakenteen suunnittelua | 2h |
-|  | YHTEENSÄ | 2 h |
+| 7.11.2017 | Ruokalistat ja sääappia | 3h |
+|  | YHTEENSÄ | 5 h |
