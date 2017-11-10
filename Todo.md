@@ -2,8 +2,7 @@
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Ruokalistat, weahter appi ja autofill haku kaupungille | Joona |
-| Suunnitella javascriptiä ja php sivustolle eli rakennetta lisää | Joona ja Minttu |
+| Ruokalistat, weather | Joona |
 | modify_user.php, modify.php, delete_user.php --> nää kaikki voisi tunkea CommentDb:n alle! | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
 | Paranna mobiilinäkyvyyttä -> header piiloon scrollatessa | Minttu |
