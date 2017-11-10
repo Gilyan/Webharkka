@@ -2,7 +2,7 @@
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Ruokalistat, weather | Joona |
+| Ruokalistat, weather paremmat versiot ja toimiviksi | Joona |
 | modify_user.php, modify.php, delete_user.php --> nää kaikki voisi tunkea CommentDb:n alle! | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
 | Paranna mobiilinäkyvyyttä -> header piiloon scrollatessa | Minttu |
@@ -26,4 +26,5 @@
 |:--|:--|:--|
 | 2.11.2017 | Layout ja rakenteen suunnittelua | 2h |
 | 7.11.2017 | Ruokalistat ja sääappia | 3h |
-|  | YHTEENSÄ | 5 h |
+| 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3h |
+|  | YHTEENSÄ | 8 h |
