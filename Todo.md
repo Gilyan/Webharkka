@@ -5,7 +5,6 @@
 | Ruokalistat, weather paremmat versiot ja toimiviksi | Joona |
 | modify_user.php, modify.php, delete_user.php --> nää kaikki voisi tunkea CommentDb:n alle! | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
-| Paranna mobiilinäkyvyyttä -> header piiloon scrollatessa | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
@@ -17,7 +16,7 @@
 | 31.10.2017 | Sivustolle rakennetta | 2 h |
 | 7.11.2017 | Sivuston ulkoasu tehty. Tietokanta käyttäjille ja kommenteille tehty. Testikäyttäjiä ja -dataa luotu. comment-core/CommentDb.php, comment-config.php, add_message.php, get_all_users.php, get_messages.php, get_user.php --> Nämä kaikki modifioitu uudelle tietokannalle. | 3 h |
 | 8.11.2017 | Sivuston ulkoasun parantelua (.css, div-rakenne) | 1 h |
-| 10.11.2017 | login.php saatu kuntoon, kirjautuminen toimii. Eng-vaihtoehto lisätty, tunnistaa kielen selaimen asetuksista. Switch-rakenne, jotta pysytään samalla etusivulla.| 3 h |
+| 10.11.2017 | login.php saatu kuntoon, kirjautuminen toimii. Eng-vaihtoehto lisätty, tunnistaa kielen selaimen asetuksista. Switch-rakenne, jotta pysytään samalla etusivulla. Mobiilinäkyvyyttä paranneltu. | 4 h |
 |  | YHTEENSÄ | 10 h |
 
 ### Joona
