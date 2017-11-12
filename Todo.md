@@ -17,8 +17,8 @@
 | 7.11.2017 | Sivuston ulkoasu tehty. Tietokanta käyttäjille ja kommenteille tehty. Testikäyttäjiä ja -dataa luotu. comment-core/CommentDb.php, comment-config.php, add_message.php, get_all_users.php, get_messages.php, get_user.php --> Nämä kaikki modifioitu uudelle tietokannalle. | 3 h |
 | 8.11.2017 | Sivuston ulkoasun parantelua (.css, div-rakenne) | 1 h |
 | 10.11.2017 | login.php saatu kuntoon, kirjautuminen toimii. Eng-vaihtoehto lisätty, tunnistaa kielen selaimen asetuksista. Switch-rakenne, jotta pysytään samalla etusivulla. Mobiilinäkyvyyttä paranneltu. | 4 h |
-| 12.11.2017 | loginia paranneltu. Uuden käyttäjän luominen tehty. Käyttäjän poistaminen tehty. | 6 h |
-|  | YHTEENSÄ | 17 h |
+| 12.11.2017 | Login rikottu. Uuden käyttäjän luominen tehty. Käyttäjän poistaminen tehty. | 8 h |
+|  | YHTEENSÄ | 19 h |
 
 ### Joona
 
