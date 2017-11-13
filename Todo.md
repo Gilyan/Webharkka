@@ -18,7 +18,7 @@
 | 8.11.2017 | Sivuston ulkoasun parantelua (.css, div-rakenne) | 1 h |
 | 10.11.2017 | login.php saatu kuntoon, kirjautuminen toimii. Eng-vaihtoehto lisätty, tunnistaa kielen selaimen asetuksista. Switch-rakenne luotu, jotta pysytään samalla etusivulla. Mobiilinäkyvyyttä paranneltu. | 4 h |
 | 12.11.2017 | Login rikottu. Switch-rakennetta otettu käyttöön. Uuden käyttäjän luominen ja käyttäjän poistaminen saatu valmiiksi. | 8 h |
-| 13.11.2017 | Login ja logout saatu toimivaksi. Tethy restaurants.php, jonne Joonalta tulee sisältöä. | 1 h |
+| 13.11.2017 | Login ja logout saatu toimivaksi. Tehty restaurants.php, jonne Joonalta tulee sisältöä. | 1 h |
 |  | YHTEENSÄ | 20 h |
 
 ### Joona
