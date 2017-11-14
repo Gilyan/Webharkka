@@ -25,9 +25,9 @@
 
 | Milloin teki | Mitä teki | Kauanko kesti |
 |:--|:--|:--|
-| 2.11.2017 | Layout ja rakenteen suunnittelua | 2h |
-| 7.11.2017 | Ruokalistat ja sääappia | 3h |
-| 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3h |
+| 2.11.2017 | Layout ja rakenteen suunnittelua | 2 h |
+| 7.11.2017 | Ruokalistat ja sääappia | 3 h |
+| 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3 h |
 | 12.11.2017 | weatherapin kanssa painimista | 1 h |
-| 13.11.2017 | Tapeltu weatherapin kanssa ilman raitkaisua | 2h |
+| 13.11.2017 | Tapeltu weatherapin kanssa ilman raitkaisua | 2 h |
 |  | YHTEENSÄ | 11 h |
