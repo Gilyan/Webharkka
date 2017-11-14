@@ -28,4 +28,6 @@
 | 2.11.2017 | Layout ja rakenteen suunnittelua | 2h |
 | 7.11.2017 | Ruokalistat ja sääappia | 3h |
 | 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3h |
-|  | YHTEENSÄ | 8 h |
+| 12.11.2017 | weatherapin kanssa painimista | 1 h |
+| 13.11.2017 | Tapeltu weatherapin kanssa ilman raitkaisua | 2h |
+|  | YHTEENSÄ | 11 h |
