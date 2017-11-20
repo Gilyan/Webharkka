@@ -2,8 +2,9 @@
 
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
-| Ruokalistat, weather paremmat versiot ja toimiviksi | Joona |
-| modify_user.php, modify.php, delete_user.php --> nää kaikki voisi tunkea CommentDb:n alle! | Minttu |
+| Ruokalistat | Joona |
+| tee modify_user.php | Minttu |
+| tee kommenttiosio, tähän tarttee eka ravintolat Joonalta | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
