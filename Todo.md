@@ -19,7 +19,8 @@
 | 10.11.2017 | login.php saatu kuntoon, kirjautuminen toimii. Eng-vaihtoehto lisätty, tunnistaa kielen selaimen asetuksista. Switch-rakenne luotu, jotta pysytään samalla etusivulla. Mobiilinäkyvyyttä paranneltu. | 4 h |
 | 12.11.2017 | Login rikottu. Switch-rakennetta otettu käyttöön. Uuden käyttäjän luominen ja käyttäjän poistaminen saatu valmiiksi. | 8 h |
 | 13.11.2017 | Login ja logout saatu toimivaksi. Tehty restaurants.php, jonne Joonalta tulee sisältöä. | 1 h |
-|  | YHTEENSÄ | 20 h |
+| 20.11.2017 | Sääosio saatu toimivaksi. | 3 h |
+|  | YHTEENSÄ | 23 h |
 
 ### Joona
 
@@ -29,5 +30,5 @@
 | 7.11.2017 | Ruokalistat ja sääappia | 3 h |
 | 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3 h |
 | 12.11.2017 | weatherapin kanssa painimista | 1 h |
-| 13.11.2017 | Tapeltu weatherapin kanssa ilman raitkaisua | 2 h |
+| 13.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua | 2 h |
 |  | YHTEENSÄ | 11 h |
