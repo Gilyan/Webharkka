@@ -23,7 +23,7 @@
 | 13.11.2017 | Login ja logout saatu toimivaksi. Tehty restaurants.php, jonne Joonalta tulee sisältöä. | 1 h |
 | 20.11.2017 | Sääosio saatu toimivaksi. | 3 h |
 | 21.11.2017 | Käyttäjätietojen muokkaus tehty. | 4 h |
-|  | YHTEENSÄ | 23 h |
+|  | YHTEENSÄ | 27 h |
 
 ### Joona
 
