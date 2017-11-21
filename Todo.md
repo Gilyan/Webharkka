@@ -3,8 +3,7 @@
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
 | Ruokalistat | Joona |
-| tee modify_user.php | Minttu |
-| tee kommenttiosio, tähän tarttee eka ravintolat Joonalta | Minttu |
+| Tee kommenttiosio, tähän tarttee eka ravintolat Joonalta | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 
