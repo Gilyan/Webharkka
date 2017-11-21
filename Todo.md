@@ -6,6 +6,7 @@
 | tee modify_user.php | Minttu |
 | tee kommenttiosio, tähän tarttee eka ravintolat Joonalta | Minttu |
 | Korjaa kommentoinnin ääkköset! | Minttu |
+| Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
