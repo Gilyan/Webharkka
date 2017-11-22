@@ -3,8 +3,6 @@
 | Mitä pitää tehdä | Kuka tekee |
 |:--|:--|
 | Ruokalistat | Joona |
-| Tee kommenttiosio, tähän tarttee eka ravintolat Joonalta | Minttu |
-| Korjaa kommentoinnin ääkköset! | Minttu |
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasana tähdiksi kirjoitettaessa | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
