@@ -6,6 +6,7 @@
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasana tähdiksi kirjoitettaessa | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
+| Viestejä ei voi kirjoittaa, jos ei ole kirjautunut. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
@@ -22,8 +23,8 @@
 | 13.11.2017 | Login ja logout saatu toimivaksi. Tehty restaurants.php, jonne Joonalta tulee sisältöä. | 1 h |
 | 20.11.2017 | Sääosio saatu toimivaksi. | 3 h |
 | 21.11.2017 | Käyttäjätietojen muokkaus  (modify_user.php) tehty. | 4 h |
-| 22.11.2017 | Tietokantaan lisätty ravintoloille taulu, jotta jätetyt palautteet voidaan linkittää ravintolaan. Modifioitu get_messages.php ja add_messages.php toimiviksi. Tehty comments.js. Tehty delete_messages.php. | 6,5 h |
-|  | YHTEENSÄ | 33,5 h |
+| 22.11.2017 | Tietokantaan lisätty ravintoloille taulu, jotta jätetyt palautteet voidaan linkittää ravintolaan. Modifioitu get_messages.php ja add_messages.php toimiviksi. Tehty comments.js. Tehty delete_messages.php. | 7 h |
+|  | YHTEENSÄ | 34 h |
 
 ### Joona
 
