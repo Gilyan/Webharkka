@@ -25,7 +25,7 @@
 | 20.11.2017 | Sääosio saatu toimivaksi. | 3 h |
 | 21.11.2017 | Käyttäjätietojen muokkaus  (modify_user.php) tehty. | 4 h |
 | 22.11.2017 | Tietokantaan lisätty ravintoloille taulu, jotta jätetyt palautteet voidaan linkittää ravintolaan. Modifioitu get_messages.php ja add_messages.php toimiviksi. Tehty comments.js. | 2,5 h |
-|  | YHTEENSÄ | 27 h |
+|  | YHTEENSÄ | 29,5 h |
 
 ### Joona
 
