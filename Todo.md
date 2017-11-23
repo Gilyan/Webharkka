@@ -41,4 +41,4 @@
 | 19.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua + monet foorumit käyty läpi | 1,5 h |
 | 21.11.2017 | Ruokalistojen .js ja .php puolen käsittelyä, sodexon listojen haku onnistuu, pitää vielä viilata | 3 h |
 | 22.11.2017 | Ruokalistojen haku .js paremmaksi, mutta vielä kömpelö | 2,5 h |
-|  | YHTEENSÄ | 17 h |
+|  | YHTEENSÄ | 19,5 h |
