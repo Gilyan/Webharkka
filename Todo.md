@@ -5,7 +5,7 @@
 | Ruokalistat | Joona |
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
-| Viestejä ei voi kirjoittaa, jos ei ole kirjautunut. | Minttu |
+| Kirjoituskentän piilotus, jos ei ole kirjauduttu sisälle? | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
