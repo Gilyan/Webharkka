@@ -6,6 +6,7 @@
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
+| Kommenttiboksi oikealle. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
