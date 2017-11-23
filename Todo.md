@@ -7,8 +7,6 @@
 | Salasana tähdiksi kirjoitettaessa | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
 | Viestejä ei voi kirjoittaa, jos ei ole kirjautunut. | Minttu |
-| Viestien / käyttäjien poistoon varmistukset. | Minttu |
-| Viestien poisto, jos käyttäjä poistetaan. | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
