@@ -5,7 +5,6 @@
 | Ruokalistat | Joona |
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
-| Kirjoituskentän piilotus, jos ei ole kirjauduttu sisälle? | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
@@ -24,8 +23,8 @@
 | 20.11.2017 | Sääosio saatu toimivaksi. | 3 h |
 | 21.11.2017 | Käyttäjätietojen muokkaus  (modify_user.php) tehty. | 4 h |
 | 22.11.2017 | Tietokantaan lisätty ravintoloille taulu, jotta jätetyt palautteet voidaan linkittää ravintolaan. Modifioitu get_messages.php ja add_messages.php toimiviksi. Tehty comments.js. Tehty delete_messages.php. | 7 h |
-| 23.11.2017 | Poistoihin liittyviä varmistuksia ja korjauksia tehty. Aloitettu haku-kentän teko. Salasanat tähditetty. Salasanoille hashaukset tehty. Liitetty Joonan get_foodlist.js pääohjelmaan ja testailtu. | 4,5 h |
-|  | YHTEENSÄ | 38,5 h |
+| 23.11.2017 | Poistoihin liittyviä varmistuksia ja korjauksia tehty. Aloitettu haku-kentän teko. Salasanat tähditetty. Salasanoille hashaukset tehty. Liitetty Joonan get_foodlist.js pääohjelmaan ja testailtu. Ruuat liitetty pääsivulle. Korjailtu sivujen skaalautumista kuntoon. Poistettu kommentointimahdollisuus jos ei ole kirjautunut. | 8 h |
+|  | YHTEENSÄ | 42 h |
 
 ### Joona
 
