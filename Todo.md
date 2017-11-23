@@ -37,4 +37,8 @@
 | 7.11.2017 | Autofill weatherapille, muttei vielä toimiva | 3 h |
 | 12.11.2017 | weatherapin kanssa painimista | 1 h |
 | 13.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua | 2 h |
-|  | YHTEENSÄ | 11 h |
+| 17.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua + monet foorumit käyty läpi | 1,5 h |
+| 19.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua + monet foorumit käyty läpi | 1,5 h |
+| 21.11.2017 | Ruokalistojen .js ja .php puolen käsittelyä, sodexon listojen haku onnistuu, pitää vielä viilata | 3 h |
+| 22.11.2017 | Ruokalistojen haku .js paremmaksi, mutta vielä kömpelö | 2,5 h |
+|  | YHTEENSÄ | 17 h |
