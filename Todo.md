@@ -7,6 +7,7 @@
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
 | Kommenttiboksi oikealle. | Minttu |
+| Virheenkäsittely tuppukylien säähakuun. | Minttu |
 
 ## Mitäs sitä on tullut tehtyä?
 
