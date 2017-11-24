@@ -41,5 +41,5 @@
 | 19.11.2017 | Tapeltu weatherapin kanssa ilman ratkaisua + monet foorumit käyty läpi | 1,5 h |
 | 21.11.2017 | Ruokalistojen .js ja .php puolen käsittelyä, sodexon listojen haku onnistuu, pitää vielä viilata | 3 h |
 | 22.11.2017 | Ruokalistojen haku .js paremmaksi, mutta vielä kömpelö | 2,5 h |
-| 23.11.2017 | Ruokalistojen haku toimii nyt valitsemalla alasvetovalikosta | 4 h |
-|  | YHTEENSÄ | 23,5 h |
+| 23.11.2017 | Ruokalistojen haku toimii nyt valitsemalla alasvetovalikosta. Sääikkunalle omat kuvakkeet "fontit" sään mukaan. | 6 h |
+|  | YHTEENSÄ | 25,5 h |
