@@ -5,10 +5,11 @@
 | Sääkentän automaattinen tyhjennys, kun siihen klikataan. | Joona |
 | Kartta ravintolasivustolla ruokalistan oikealle puolelle. | Joona |
 | Ruokalistojen haku kerran viikossa/päivässä ? | Joona |
+| Virheenkäsittely tuppukylien säähakuun. | Joona |
 | Käyttäjätunnuksen luontiin tarkistuksia, ääkköset pois regexpillä, duplikaattien tarkistus selainpäähän | Minttu |
 | Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
 | Käyttäjien ja viestien poistoon hakukentät. | Minttu |
-| Virheenkäsittely tuppukylien säähakuun. | Minttu |
+
 
 ## Mitäs sitä on tullut tehtyä?
 
