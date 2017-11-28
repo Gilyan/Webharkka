@@ -47,4 +47,6 @@
 | 22.11.2017 | Ruokalistojen haku .js paremmaksi, mutta vielä kömpelö | 2,5 h |
 | 23.11.2017 | Ruokalistojen haku toimii nyt valitsemalla alasvetovalikosta. Sääikkunalle omat kuvakkeet "fontit" sään mukaan. | 6 h |
 | 24.11.2017 | Google mapin suunnittelua ravintoloille | 0,5 h |
-|  | YHTEENSÄ | 26 h |
+| 27.11.2017 | Google mapin suunnittelu ja luominen restaurant.php:lle, joka ravintolalle omat reitit | 5 h |
+| 28.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, ei vielä valmis | 2,5 h |
+|  | YHTEENSÄ | 33,5 h |
