@@ -49,4 +49,5 @@
 | 24.11.2017 | Google mapin suunnittelua ravintoloille | 0,5 h |
 | 27.11.2017 | Google mapin suunnittelu ja luominen restaurant.php:lle, joka ravintolalle omat reitit | 5 h |
 | 28.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, ei vielä valmis | 2,5 h |
-|  | YHTEENSÄ | 33,5 h |
+| 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii | 2,5 h |
+|  | YHTEENSÄ | 36 h |
