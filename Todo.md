@@ -30,7 +30,8 @@
 | 24.11.2017 | Käyttäjätunnuksen luontiin tehty tarkistuksia preg_matchilla. Virheilmoja korjailtu. | 1 h |
 | 27.11.2017 | Viestien hakumahdollisuus tehty. | 1 h |
 | 28.11.2017 | Raportointia. | 2 h |
-|  | YHTEENSÄ | 46 h |
+| 29.11.2017 | Raportointia. | 2 h |
+|  | YHTEENSÄ | 48 h |
 
 ### Joona
 
