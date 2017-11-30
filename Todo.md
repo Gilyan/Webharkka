@@ -19,8 +19,8 @@
 | 27.11.2017 | Viestien hakumahdollisuus tehty. | 1 h |
 | 28.11.2017 | Raportointia. | 2 h |
 | 29.11.2017 | Raportointia. | 2 h |
-| 30.11.2017 | Joonan koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportti viimeistelty ja työ palautettu. | 2 h |
-|  | YHTEENSÄ | 50 h |
+| 30.11.2017 | Joonan koodit liitetty pääohjelmaan ja testailtu toimivuutta. Viilailtu pikkujuttuja kuntoon, saatu z-indeksin avulla kartta navigointipalkin alle. Raportti viimeistelty ja työ palautettu. | 4 h |
+|  | YHTEENSÄ | 52 h |
 
 ### Joona
 
@@ -41,5 +41,5 @@
 | 28.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, ei vielä valmis | 2,5 h |
 | 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii | 2,5 h |
 | 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii myös etusivulla. Jos ei ole https yhteys (tällä hetkellä pakottaa https yhteyden) tai käyttäjä ei salli sijainnin jakamista niin kartta kysyy olin sijainnin osoitetta. Jos säähaku ei löydä haettua kaupunkia niin ilmoittaa siitä. Säähaussa tyhjentää kentän kun käyttäjä on hakenut tietyn kaupungin tiedot.| 5 h |
-| 30.11.2017 | Koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportointia. | 2 h |
-|  | YHTEENSÄ | 43 h |
+| 30.11.2017 | Koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportointia. Rakennekaavion tekeminen. | 4 h |
+|  | YHTEENSÄ | 45 h |
