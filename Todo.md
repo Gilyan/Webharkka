@@ -1,12 +1,4 @@
-# TODO
-
-| Mitä pitää tehdä | Kuka tekee |
-|:--|:--|
-| Käyttäjätunnuksen duplikaattien tarkistus selainpäähän | Minttu |
-| Salasanan / emailin vaihtoon vielä salasanakysely? | Minttu |
-
-
-## Mitäs sitä on tullut tehtyä?
+# Mitäs sitä on tullut tehtyä?
 
 ### Minttu
 
@@ -27,7 +19,8 @@
 | 27.11.2017 | Viestien hakumahdollisuus tehty. | 1 h |
 | 28.11.2017 | Raportointia. | 2 h |
 | 29.11.2017 | Raportointia. | 2 h |
-|  | YHTEENSÄ | 48 h |
+| 30.11.2017 | Joonan koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportointia. | 2 h |
+|  | YHTEENSÄ | 50 h |
 
 ### Joona
 
@@ -48,4 +41,5 @@
 | 28.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, ei vielä valmis | 2,5 h |
 | 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii | 2,5 h |
 | 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii myös etusivulla. Jos ei ole https yhteys (tällä hetkellä pakottaa https yhteyden) tai käyttäjä ei salli sijainnin jakamista niin kartta kysyy olin sijainnin osoitetta. Jos säähaku ei löydä haettua kaupunkia niin ilmoittaa siitä. Säähaussa tyhjentää kentän kun käyttäjä on hakenut tietyn kaupungin tiedot.| 5 h |
-|  | YHTEENSÄ | 41 h |
+| 30.11.2017 | Koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportointia. | 2 h |
+|  | YHTEENSÄ | 43 h |
