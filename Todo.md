@@ -19,7 +19,7 @@
 | 27.11.2017 | Viestien hakumahdollisuus tehty. | 1 h |
 | 28.11.2017 | Raportointia. | 2 h |
 | 29.11.2017 | Raportointia. | 2 h |
-| 30.11.2017 | Joonan koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportointia. | 2 h |
+| 30.11.2017 | Joonan koodit liitetty pääohjelmaan ja testailtu toimivuutta. Raportti viimeistelty ja työ palautettu. | 2 h |
 |  | YHTEENSÄ | 50 h |
 
 ### Joona
