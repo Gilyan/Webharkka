@@ -47,5 +47,5 @@
 | 27.11.2017 | Google mapin suunnittelu ja luominen restaurant.php:lle, joka ravintolalle omat reitit | 5 h |
 | 28.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, ei vielä valmis | 2,5 h |
 | 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii | 2,5 h |
-| 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii myös etusivulla. Jos ei ole https yhteys tai käyttäjä ei salli sijainnin jakamista niin kartta kysyy olin sijainnin osoitetta. Jos säähaku ei löydä haettua kaupunkia niin ilmoittaa siitä. Säähaussa tyhjentää kentän kun käyttäjä on hakenut tietyn kaupungin tiedot| 5 h |
+| 29.11.2017 | MA-PE valinnat ravintoloiden ruokalistoille, toimii myös etusivulla. Jos ei ole https yhteys (tällä hetkellä pakottaa https yhteyden) tai käyttäjä ei salli sijainnin jakamista niin kartta kysyy olin sijainnin osoitetta. Jos säähaku ei löydä haettua kaupunkia niin ilmoittaa siitä. Säähaussa tyhjentää kentän kun käyttäjä on hakenut tietyn kaupungin tiedot.| 5 h |
 |  | YHTEENSÄ | 41 h |
